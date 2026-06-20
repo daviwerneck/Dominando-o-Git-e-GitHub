@@ -1,1 +1,1 @@
-O versiomaneto - ou controle de versões - é a prática de gerenciar os diferentes estágios de evolução de um código ou documento ao longo do tempo. É registrado o responsável, quando e por quê uma modificação foi feita, sendo possível recuperar versões antigas.
+O versiomaneto - ou controle de versões - é a prática de gerenciar os diferentes estágios de evolução de um código ou documento ao longo do tempo. É registrado o responsável, quando e por quê uma modificação foi feita, sendo possível recuperar versões anteriores.
